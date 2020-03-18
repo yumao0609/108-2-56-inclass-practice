@@ -3,7 +3,7 @@
     "path": "~/GitHub/108-2-56-inclass-practice/20200318.Rmd",
     "project_path": "20200318.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2921101185",
     "contents": "",
     "dirty": false,
     "created": 1584510210056.0,
@@ -11,15 +11,16 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "2,17",
-        "scrollLine": "0"
+        "cursorPosition": "32,6",
+        "scrollLine": "8",
+        "last_setup_crc32": "34E8505Dbb338d19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1584510227,
+    "lastKnownWriteTime": 1584513441,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1584510227247,
+    "last_content_update": 1584513441733,
     "read_only": false,
     "read_only_alternatives": []
 }
